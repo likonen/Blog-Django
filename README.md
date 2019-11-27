@@ -1,2 +1,2 @@
 # Blog-Django
-First django project
+First public django project
